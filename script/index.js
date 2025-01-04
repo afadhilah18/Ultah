@@ -14,7 +14,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
       Swal.fire({
         icon: "success",
         title: "Login berhasil!",
-        text: "Selamat datang ayanggg",
+        text: "Selamat datang chaca",
         showConfirmButton: false,
         timer: 1500,
       }).then(function () {
